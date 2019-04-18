@@ -1,5 +1,5 @@
 #Includ for all perl zabbix-sender based monitoring scripts.
-#Place:		/usr/lob/zabbix
+#Place:		/usr/lib/zabbix
 #Depends:	aptitude install zabbix-sender
 
 my $VERSION		= "0.3.9";
